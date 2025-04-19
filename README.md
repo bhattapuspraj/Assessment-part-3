@@ -25,7 +25,7 @@ Updating a single part in the document will suffice instead of modifying the ent
 **Readability:**
 The added comments provide understanding to myself and there other developers for the code operation. eg:code has commented.
 
-**Things that can be improved.**
+**Things that can be improved:**
 Although the code functions correctly some changes could enhance its effectiveness:
 
 The system preloads the booking status value with "Pending". The system needs customization either through user selection or automatic process determination according to the circumstances.
