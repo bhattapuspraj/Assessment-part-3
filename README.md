@@ -1,5 +1,5 @@
 # Assessment-part-3
-**About Repository.**
+**About Repository:**
 All programming work along with research gets stored within this repository. The repository holds programming code that I authored as well as practice-oriented and learned programming code. Programmer fundamental explanations together with their applications within real-world implementation examples are also added. The main purpose of this repository serves to learn optimal coding techniques for future application while working on new code or reviewing existing code.
 
 The repository features clear folder organization for files and includes code explanations through comments that describe program activities. My storage space functions to house program code while simultaneously providing a space to evaluate knowledge retention and enhance my programming technique.
