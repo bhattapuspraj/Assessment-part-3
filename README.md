@@ -12,7 +12,7 @@ The program displays booking data which includes total cost and passenger identi
 The last step calls booking_approval() to determine the booking status between approved and pending.
 Code management becomes easier through functions that divide operations in a streamlined manner.
 
-**Programming Principles Used.**
+**Programming Principles Used:**
 **Modularity:**
 Due to the individual function-based approach each task functions operates independently which enhances code testing and modification the processes. eg:customer_booking and ferry_service_total
 
