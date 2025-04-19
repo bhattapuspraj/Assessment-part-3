@@ -4,7 +4,7 @@ All programming work along with research gets stored within this repository. The
 
 The repository features clear folder organization for files and includes code explanations through comments that describe program activities. My storage space functions to house program code while simultaneously providing a space to evaluate knowledge retention and enhance my programming technique.
 
-**What does my code do ?**
+**What does my code can do ?**
 The represents a fundamental ferry booking system developed in Python programming language. It performs the following tasks:
 The script contains customer_booking() as a tool to get name and ID along with ticket number from passengers.
 The code executes price calculation through the second function ferry_service_total().
